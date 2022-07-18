@@ -2,9 +2,9 @@
 一个简易的多功能Oauth平台<br>
 ## 环境要求
 以下为必须条件：<br>
-- PHP 7.1
-- MySQL 5.6.50
-- phpMyAdmin 4.4
+- PHP 7.1 及以上版本
+- MySQL 5.6.50 及以上版本
+- phpMyAdmin 4.4 及以上版本
 - - -
 以下为可选条件：<br>
 - Nginx 1.16.1
